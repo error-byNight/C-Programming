@@ -67,7 +67,7 @@ void bfsTraversal(Graph *graph, int start_node) {
         }
     }
 }
-//Best case: O(V + E), Worst case: O(V^2)
+//Best case: O(V + E) , Worst case: O(V^2)
 //Space Complexity: O(V)
 int main() {
     Graph graph;
