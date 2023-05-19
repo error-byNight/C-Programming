@@ -15,6 +15,7 @@ int binarySearch(int arr[], int left, int right, int x) {
    }
    return -1;
 }
+
 //Best case: O(1) , Worst case: O(log n)
 //Space Complexity:O(1)
 int main() {
